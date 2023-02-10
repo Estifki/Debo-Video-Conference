@@ -3,7 +3,7 @@
 
 ### Getting Started
 
-<img src =https://user-images.githubusercontent.com/79464470/202893426-f4f630b1-ed1d-4517-adb2-4caeee6fc690.png width=400/>
+<img src =https://user-images.githubusercontent.com/79464470/202893426-f4f630b1-ed1d-4517-adb2-4caeee6fc690.png width=350/>
 
 <img src = https://user-images.githubusercontent.com/79464470/202893430-b56be43d-a460-48c1-9843-8b5178e53d18.png width=400/>
 
